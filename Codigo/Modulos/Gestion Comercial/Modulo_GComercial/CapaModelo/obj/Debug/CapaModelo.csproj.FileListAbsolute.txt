@@ -51,3 +51,9 @@ D:\Semestre 2 2023\analisis de sistemas 2\Practica P2\Gestios Comercial\Modulo_G
 D:\Semestre 2 2023\analisis de sistemas 2\Practica P2\Gestios Comercial\Modulo_GComercial\CapaModelo\obj\Debug\CapaModelo.pdb
 D:\Semestre 2 2023\analisis de sistemas 2\Practica P2\Gestios Comercial\Modulo_GComercial\CapaModelo\bin\Debug\CapaModelo.dll
 D:\Semestre 2 2023\analisis de sistemas 2\Practica P2\Gestios Comercial\Modulo_GComercial\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Gestion Comercial\Modulo_GComercial\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Gestion Comercial\Modulo_GComercial\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Gestion Comercial\Modulo_GComercial\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Gestion Comercial\Modulo_GComercial\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Gestion Comercial\Modulo_GComercial\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Doris\Desktop\Proyecto Gestión Comercial\proyectoads22023GESTION_COMERCIAL\Codigo\Modulos\Gestion Comercial\Modulo_GComercial\CapaModelo\obj\Debug\CapaModelo.pdb

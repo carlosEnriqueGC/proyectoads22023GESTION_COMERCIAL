@@ -115,5 +115,15 @@ namespace CapaVista
         {
             //Abrir(new Procedimientos."nombre de la form"());
         }
+
+        private void órdenesDeCompraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Abrir(new Procedimientos.OrdenesdeCompra());
+        }
+
+        private void comprasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Abrir(new Procedimientos.Compras());
+        }
     }
 }
