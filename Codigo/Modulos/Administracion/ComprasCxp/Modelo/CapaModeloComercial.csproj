@@ -7,8 +7,8 @@
     <ProjectGuid>{4786EB0D-2CC7-4F95-91C0-25D7095018B4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Modelo_PrototipoMenu</RootNamespace>
-    <AssemblyName>Modelo_PrototipoMenu</AssemblyName>
+    <RootNamespace>CapaModeloComercial</RootNamespace>
+    <AssemblyName>CapaModeloComercial</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -42,7 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conexion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sentencias.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
