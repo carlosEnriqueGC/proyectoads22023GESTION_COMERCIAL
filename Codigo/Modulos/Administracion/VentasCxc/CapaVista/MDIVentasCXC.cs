@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using CapaControlador;
 using Seguridad_Controlador;
-namespace CapaVista
+namespace CapaVista 
 {
     public partial class MDIVentasCXC : Form
     {
@@ -108,8 +108,9 @@ namespace CapaVista
 
         private void btnclientes_Click(object sender, EventArgs e)
         {
-            //Abrir(new "carpeta"."form"());
-            //hideSubMenu();
+            Abrir(new Mantenimientos.frmClientes());
+            hideSubMenu();
+            
         }
 
 

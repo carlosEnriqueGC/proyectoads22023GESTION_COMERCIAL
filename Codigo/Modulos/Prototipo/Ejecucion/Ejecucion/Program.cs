@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CapaVista;
 
 namespace Ejecucion
 {
@@ -13,8 +14,8 @@ namespace Ejecucion
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Vista_PrototipoMenu.MenuSeguridad());
-            
-        }   
+            Application.Run(new CapaVista.MDIVentasCXC());
+
+        }
     }
 }
