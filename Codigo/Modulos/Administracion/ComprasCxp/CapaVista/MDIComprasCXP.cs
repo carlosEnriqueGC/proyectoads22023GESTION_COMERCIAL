@@ -120,8 +120,8 @@ namespace CapaVista
 
         private void btnproveedor_Click(object sender, EventArgs e)
         {
-            //Abrir(new "carpeta"."form"());
-            //hideSubMenu();
+            Abrir(new Mantenimientos.Proveedores());
+            hideSubMenu();
         }
 
         private void btnconcepto_Click(object sender, EventArgs e)
